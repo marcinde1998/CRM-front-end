@@ -1,0 +1,23 @@
+div .customer {
+    width: 200px;
+    height: 105px;
+    background-color: rgb(104, 104, 255);
+    color: rgb(233, 232, 232);
+    margin-top: 5px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+
+div .customer a {
+    color: inherit;
+    text-decoration: inherit;
+    background-color: rgb(233, 232, 232);
+    color: rgb(104, 104, 255);
+}
+
+table {
+    border: solid;
+    border-color:  rgb(104, 104, 255);
+}

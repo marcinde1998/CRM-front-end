@@ -1,0 +1,27 @@
+nav {
+    background-color: rgb(233, 232, 232);
+    display: flex;
+    height: 40px;
+}
+
+nav li {
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    width: 100px;
+    border: solid 1px;
+    border-radius: 30px;
+    padding: 5px;
+    color: rgb(81, 81, 253);  
+}
+
+nav li a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+nav li:hover {
+    background-color: rgb(81, 81, 253);
+    color: aliceblue;
+}
